@@ -16,12 +16,12 @@ app.get('/article-one',function(req,res)
 
 app.get('/article-two',function(req,res)
 {
-  res.send('article two requested and will be served here');
+res.sendFile(path.join(__dirname, 'article-three.html'));
 });
 
 app.get('/article-three',function(req,res)
 {
-  res.send('article three requested and will be served here');
+res.sendFile(path.join(__dirname, 'article-four.html'));
 });
 
 app.get('/ui/style.css', function (req, res) {
