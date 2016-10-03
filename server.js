@@ -17,7 +17,8 @@ var articles={
             <p>
                In this webpage i am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
             </p>
-             <a href="www.bosch-india-software.com" target="_blank" > <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" /></a> `
+             <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
+             <a href="www.bosch-india-software.com" target="_blank" >Bosch website</a>`
 },
 'article-two':{
      title:'Article two | T Venkatesh',
