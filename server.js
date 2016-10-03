@@ -16,7 +16,8 @@ var articles={
             </p> 
             <p>
                In this webpage i am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
-            </P>`
+            </p>
+            `
 },
 'article-two':{
      title:'Article two | T Venkatesh',
