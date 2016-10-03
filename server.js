@@ -11,20 +11,8 @@ var articles={
     heading:'Article one',
     date:'sept 30 , 2016',
     content: `  <p>
-                My name is T venkatesh   My name is T venkatesh
-                 My name is T venkatesh
-                  My name is T venkatesh
-                 My name is T venkatesh
-            </p>
-            <p>
-                 My name is T venkatesh   My name is T venkatesh   My name is T venkatesh   My name is T venkatesh
-                 My name is T venkatesh     My name is T venkatesh    My name is T venkatesh   My name is T venkatesh
-            </p>
-               <p>
-                My name is T venkatesh   My name is T venkatesh
-                 My name is T venkatesh
-                  My name is T venkatesh
-                 My name is T venkatesh
+                I am T Venkatesh pursuing my Btech in ECE in LPU in Punjab . I am Born and brought up in Mahbubnagar in Telangana State.
+                This is my first web app i am very thankful to IMAD Team for helping me in making my first webpage 
             </p> `
 },
 'article-two':{
