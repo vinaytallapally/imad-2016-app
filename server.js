@@ -17,7 +17,10 @@ var articles={
             <p>
                In this webpage i am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
             </p>
-             <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />`
+             <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
+             <p>
+            In 1886, Robert Bosch founded the Workshop for Precision Mechanics and Electrical Engineering in Stuttgart. This was the birth of todays globally active Robert Bosch GmbH. From the very beginning, the companys history has been characterized by innovative drive and social commitment. We have compiled the highlights from over 130 years in our archives
+            </p> `
 },
 'article-two':{
      title:'Article two | T Venkatesh',
