@@ -13,7 +13,10 @@ var articles={
     content: `  <p>
                 I am T Venkatesh pursuing my Btech in ECE in LPU in Punjab . I am Born and brought up in Mahbubnagar in Telangana State.
                 This is my first web app i am very thankful to IMAD Team for helping me in making my first webpage 
-            </p> `
+            </p> 
+            <p>
+               In this webpage i am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
+            </P>`
 },
 'article-two':{
      title:'Article two | T Venkatesh',
