@@ -15,7 +15,7 @@ var articles={
                 This is my first web app i am very thankful to IMAD Team for helping me in making my first webpage 
             </p> 
             <p>
-               In this webpage i am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
+               In this webpage I am going to introduce about one of the best innovative companies in the world ROBERT BOSCH
             </p>
              <img src="http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
              <p>
