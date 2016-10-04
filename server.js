@@ -72,8 +72,7 @@ var htmlTemplate=`
            <style>
          img :
     margin: 5px;
-    border: 1px solid #ccc;
-    float: left;
+      text-align: center;
     width: 100px;
            </style>
     </head>
