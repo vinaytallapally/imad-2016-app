@@ -74,7 +74,7 @@ var htmlTemplate=`
     margin: 5px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 100px;
            </style>
     </head>
     <body>
