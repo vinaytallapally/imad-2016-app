@@ -69,7 +69,13 @@ var htmlTemplate=`
         </title>
         <meta name="viewport" content="width-device-width,initial-scale=1"/>
            <link href="/ui/style.css" rel="stylesheet" />
-           
+           <style>
+         img :
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+           </style>
     </head>
     <body>
         <div class="container">
