@@ -21,7 +21,7 @@ body {
  .container{
             max-width:800px;
             margin: 0 auto;
-            color: rgb(255,165,0);
+            color: 	#FFD700;
                background-color: lightblue ;
                border-style: solid;
     border-width: medium ;
