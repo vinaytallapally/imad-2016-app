@@ -71,6 +71,9 @@ var htmlTemplate=`
        
     </head>
     <body>
+              <div class="img">
+             <img src=" http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
+ </div>
         <div class="container">
         <div>
             <a href="/">Home</a>
@@ -82,9 +85,6 @@ var htmlTemplate=`
         <div>
           ${date}
         </div>
-         <div class="img">
-             <img src=" http://www.azquotes.com/picture-quotes/quote-i-would-rather-lose-money-than-trust-robert-bosch-73-41-22.jpg" />
- </div>
         <div>
          ${content}
     </div>
