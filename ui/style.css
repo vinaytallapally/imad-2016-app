@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: verdana;
     margin-top: 60px;
 }
 
@@ -21,8 +21,14 @@ body {
  .container{
             max-width:800px;
             margin: 0 auto;
-            color: yellowgreen;
-            font-family: timesnewroman;
+            color: rgb(255,165,0);
+               background-color: lightblue ;
+               border-style: solid;
+    border-width: medium ;
+      outline-style: double;
+    outline-color: red;
+    outline-width: thick ;
+            font-family: verdana;
             padding-left:20px;
             padding-right:20px;
         }
