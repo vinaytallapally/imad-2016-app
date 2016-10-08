@@ -18,9 +18,9 @@ button.onclick = function()
                 span.innerHTML=counter.toString();
             }
         }
+        // not done yet
         
     };
-    
     // Make the request
     request.open('GET','http://vinaytallapally.imad.hasura-app.io/counter',true);
     request.send('null');
