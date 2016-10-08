@@ -92,10 +92,6 @@ var htmlTemplate=`
 `;
 return htmlTemplate;
 }
-app.get('/:articlename', function (req, res) {
-     var articlename=req.params.articlename;
-   res.send(createTemplate(articles[articlename]));
-});
 
 app.get('/:articlename',function(req,res)
 {
