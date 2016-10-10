@@ -125,7 +125,6 @@ var names=[]; // java script object
 app.get('/submit-name/:name',function(req,res){
 var name=req.params.name;
 names.push(name); 
-// res.send(names); 
 // JSON : Javascript Object Notation
 rs.send(JSON.stringify(names));
 });
