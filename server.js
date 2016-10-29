@@ -108,13 +108,7 @@ names.push(name);
 res.send(JSON.stringify(names));
 });  */
 
- var names=[]; // java script object
-app.get('/submit-name',function(req,res){ // submit-name?name=xxxx
-var name=req.query.name;
-names.push(name); 
-// JSON : Javascript Object Notation
-res.send(JSON.stringify(names));
-}); 
+
 
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
@@ -136,11 +130,21 @@ app.get('/test-db',function(req,res)
      }
  });
 });
+
+
 var counter=0;
 app.get('/counter', function (req, res) {
   counter=counter+1;
   res.send(counter.toString());
 });
+
+ var names=[]; // java script object
+app.get('/submit-name',function(req,res){ // submit-name?name=xxxx
+var name=req.query.name;
+names.push(name); 
+// JSON : Javascript Object Notation
+res.send(JSON.stringify(names));
+}); 
 
 app.get('/:articlename',function(req,res)
 {
