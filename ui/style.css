@@ -6,7 +6,7 @@ body{
 }
 
 .center {
-    text-align: left;
+    text-align: center;
 }
 
 .text-big {
@@ -29,6 +29,7 @@ body{
             font-family: Garmond,Times,serif;
             padding-left:5px;
             padding-right:5px;
+            text-align: center;
         }
  .heading{
      color:rgba(245, 56, 56, 0.73);
