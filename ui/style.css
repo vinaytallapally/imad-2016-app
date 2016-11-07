@@ -5,7 +5,7 @@ body {
 }
 
 .center {
-    text-align: center;
+    text-align: left;
 }
 
 .text-big {
@@ -17,8 +17,7 @@ body {
 }
 
 .img-medium {
-    height: 200px;
-    text-align:left;
+    height: 100px;
 }
  .container{
             margin: 0 auto;
