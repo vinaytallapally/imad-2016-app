@@ -18,12 +18,13 @@ body {
 
 .img-medium {
     height: 200px;
+    text-align:left;
 }
  .container{
             margin: 0 auto;
             color: 	#000000;
                background-color: white ;
-            font-family: verdana;
+            font-family: Garmond,Times,serif;
             padding-left:5px;
             padding-right:5px;
         }
