@@ -37,6 +37,11 @@ body{
  .info{
     color:rgba(16, 136, 188, 0.87);
  }
+ .one{
+     text-align:center;
+     text-transform:uppercase;
+     font-weight:bold;
+ }
 
 
 
