@@ -6,8 +6,6 @@ body {
 
 .center {
     text-align: left;
-    border:3px solid rgb(22,77,100);
-    border-radius:100%;
 }
 
 .text-big {
@@ -19,7 +17,8 @@ body {
 }
 
 .img-medium {
-    height: 200px;
+    border:3px solid rgb(22,77,100);
+    border-radius:100%;
 }
  .container{
             margin: 0 auto;
@@ -30,10 +29,10 @@ body {
             padding-right:5px;
         }
  .heading{
-     color:#A3B;
+     color:rgba(245, 56, 56, 0.73);
  }
  .info{
-     color:#FFF;
+     color:rgba(56, 201, 245, 0.73);
  }
 
 
