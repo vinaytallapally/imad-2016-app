@@ -35,7 +35,10 @@ body{
      color:rgba(245, 56, 56, 0.73);
  }
  .info{
-     color:rgba(56, 201, 245, 0.73);
+    rgba(255, 255, 255, 1);
+ }
+ .title{
+     color:rgba(0, 0, 0, 1);
  }
 
 
