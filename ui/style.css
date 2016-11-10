@@ -51,7 +51,7 @@ body{
     color:rgba(255, 255, 255, 1);
 }
 .attach{
-  
+  display:inline;
      text-transform:uppercase;
      font-weight:bold;
      color:rgba(255, 255, 255, 1); 
