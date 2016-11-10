@@ -44,5 +44,11 @@ body{
      color:rgba(179, 0, 0, 1);
  }
 
+.two{
+     text-align:center;
+     text-transform:uppercase;
+     font-weight:bold;
+    color:rgba(255, 255, 255, 1);
+}
 
 
