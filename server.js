@@ -30,8 +30,8 @@ var htmlTemplate=`
     </head>
     <body>
         <div class="container">
-        <div class="two">
-            <a href="/">Home</a>
+        <div>
+            <a href="/" class="two">Home</a>
         </div>
         <hr/>
         <h3 class="two">
@@ -40,7 +40,7 @@ var htmlTemplate=`
         <div class="two">
           ${date.toDateString()}
         </div>
-        <div>
+        <div class="one">
          ${content}
     </div>
 </div>
