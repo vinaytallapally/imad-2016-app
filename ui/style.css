@@ -1,5 +1,5 @@
 .attach{
-  display:inline;
+  display:block;
      text-transform:uppercase;
      font-weight:bold;
       color:rgba(16, 136, 188, 0.87);
