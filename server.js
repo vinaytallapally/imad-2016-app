@@ -31,7 +31,7 @@ var htmlTemplate=`
     <body>
         <div class="container">
         <div>
-            <a href="/" class="two">Home</a>
+            <a href="/" class="two" target="_blank">Home</a>
         </div>
         <hr/>
         <h3 class="two">
